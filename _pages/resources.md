@@ -1,5 +1,5 @@
 ---
-title: "Buy me a Boba"
+title: "Resources"
 permalink: "/resources.html"
 image: "assets/images/boba.jpg"
 ---
