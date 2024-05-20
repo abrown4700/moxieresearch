@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: page-sidebar
-permalink: "/authors-list.html"
+permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
